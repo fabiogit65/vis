@@ -1,0 +1,682 @@
+libbatik-java - xml.apache.org SVG Library
+libdevhelp-3-2 - Library providing documentation browser functionality
+libjs-jquery-tablesorter - Flexible client-side table sorting
+libjs-raphael - JavaScript library to work with vector graphics
+libjs-yui3-common - Yahoo User Interface Library v3 (common files)
+libjs-yui3-debug - Yahoo User Interface Library v3 (debug files)
+libjs-yui3-full - Yahoo User Interface Library v3 (full, uncompressed files)
+libjs-yui3-min - Yahoo User Interface Library v3 (minified files)
+libmono-webbrowser2.0-cil - Mono Web Browser library (for CLI 2.0)
+libmono-webbrowser4.0-cil - Mono Web Browser library (for CLI 4.0)
+liboxideqt-qmlplugin - Web browser engine library for Qt (QML plugin)
+nginx-core - nginx web/proxy server (core version)
+oxideqt-codecs - Web browser engine library for Qt (codecs)
+oxideqt-codecs-dbg - Web browser engine library for Qt (Debug symbols)
+oxideqt-codecs-extra - Web browser engine library for Qt (codecs)
+oxideqt-codecs-extra-dbg - Web browser engine library for Qt (Debug symbols)
+oxideqt-dbg - Web browser engine library for Qt (Debug symbols)
+python-html5lib - HTML parser/tokenizer based on the WHATWG HTML5 specification (Python 2)
+python3-pyqt5.qtwebkit - Python 3 bindings for Qt5's WebKit module
+qtdeclarative5-ubuntu-ui-extras-browser-plugin - Ubuntu web browser QML plugin
+qtdeclarative5-ubuntu-ui-extras-browser-plugin-assets - Ubuntu web browser QML plugin assets
+rhythmbox-mozilla - Rhythmbox Mozilla plugin
+ubuntu-defaults-builder - create Ubuntu customization packages
+ubuntu-docs - Ubuntu Desktop Guide
+unity-scope-gmusicbrowser - gmusicbrowser scope for Unity
+webaccounts-extension-common - Ubuntu Online Accounts browser extension - common files
+webbrowser-app - Ubuntu web browser
+ca-certificates - Certificati CA comuni
+cups-browsed - Filtri CUPS OpenPrinting - cups-browsed
+devscripts - script per facilitare la vita di un manutentore di pacchetti Debian
+doxygen-latex - sistema di documentazione per C, C++, Java, Python e altri linguaggi
+emacs24 - GNU Emacs editor (with GTK+ user interface)
+emacs24-nox - GNU Emacs editor (without X support)
+firefox - Sicuro e semplice browser web da Mozilla
+firefox-dbg - Sicuro e semplice browser web da Mozilla - simboli di debug
+firefox-dev - Sicuro e semplice browser web da Mozilla - file di sviluppo
+firefox-globalmenu - Safe and easy web browser from Mozilla (transitional package)
+gimp - Il programma GNU di manipolazione immagini
+gimp-help-de - Documentazione per GIMP (tedesco)
+gimp-help-en - Documentazione per GIMP (inglese)
+gimp-help-es - Documentazione per GIMP (spagnolo)
+gimp-help-fr - Documentazione per GIMP (francese)
+gimp-help-it - Documentazione per GIMP (italiano)
+gimp-help-ko - Documentazione per GIMP (coreano)
+gimp-help-nl - Documentazione per GIMP (olandese)
+gimp-help-nn - Documentazione per GIMP (norvegese)
+gimp-help-pl - Documentazione per GIMP (polacco)
+gimp-help-ru - Documentazione per GIMP (russo)
+gimp-help-sv - Documentazione per GIMP (in svedese)
+hevea - traduce da LaTeX in HTML, info o testo
+icedtea-7-plugin - plugin per browser web per eseguire applet Java basato su OpenJDK e IcedTea
+icedtea-plugin - web browser plugin to execute Java applets (dependency package)
+info - visualizzatore della documentazione GNU Info
+libdevhelp-dev - Library providing documentation browser functionality (development)
+libgd-dbg - Debug symbols for GD Graphics Library
+libgd-dev - GD Graphics Library (development version)
+libgd3 - GD Graphics Library
+libgucharmap-2-90-7 - Unicode browser widget library (shared library)
+libgucharmap-2-90-dev - Unicode browser widget library (development headers)
+libjs-underscore - libreria ausiliaria per programmazione funzionale di JavaScript
+libkhtml5 - KHTML Web Content Rendering Engine
+libnet-ssleay-perl - modulo Perl per Secure Sockets Layer (SSL)
+libqt5webkit5 - libreria per motore di contenuti web per Qt
+libqt5webkit5-dbg - Web content engine library for Qt - debugging symbols
+libqt5webkit5-dev - libreria per motore di contenuti web per Qt - file di sviluppo
+libqt5webkit5-qmlwebkitplugin - plugin WebKit QML per Qt
+libqtwebkit-dev - libreria per motore di contenuti web per Qt - file di sviluppo
+libqtwebkit4 - libreria per motore di contenuti web per Qt
+libqtwebkit4-dbg - Web content engine library for Qt - debugging symbols
+libtidy-0.99-0 - controllore di sintassi HTML e riformattatore - libreria
+libtidy-dev - HTML syntax checker and reformatter - development
+libyelp-dev - libreria per il browser dell'aiuto di GNOME (sviluppo)
+libyelp0 - libreria per il browser dell'aiuto di GNOME
+lynx - browser web testuale (pacchetto di transizione)
+lynx-cur - browser WWW testuale con supporto per NLS (versione di sviluppo)
+man-db - visualizzatore on-line di pagine di manuale
+monodoc-browser - visualizzatore di MonoDoc basato su GTK+
+munin - infrastruttura di grafi in rete (strumento per grafi/raccolta dati)
+nut-cgi - network UPS tools - web interface
+python-gnome2-doc - collegamenti Python per l'ambiente desktop GNOME
+python-gtk2-doc - collegamenti Python all'insieme di widget GTK+ - documentazione
+python-requests - semplice ed elegante libreria HTTP per Python, fatta per esseri umani
+python-utidylib - Python wrapper for TidyLib
+python3-pyqt5.qtwebkit-dbg - Python 3 bindings for Qt5's WebKit module (debug extensions)
+python3-requests - elegant and simple HTTP library for Python3, built for human beings
+sensible-utils - utilità per la selezione di un'alternativa sensata
+tidy - controllore di sintassi HTML e riformattatore
+tidy-doc - HTML syntax checker and reformatter - documentation
+totem-mozilla - Plugin Totem per Mozilla
+w3m - visualizzatore/browser web con eccellente supporto per tabelle e frame
+x11-apps - applicazioni X
+xdg-utils - strumenti per l'integrazione col desktop da freedesktop.org
+xfonts-mathml - tipo di carattere Type1 con simboli per MathML
+yelp - browser dell'aiuto di GNOME
+yelp-xsl - fogli di stile XSL per il browser dell'aiuto yelp
+axe - Text editor for X
+flashplugin-installer - Adobe Flash Player plugin installer
+mythbrowser - A web browser for MythTV
+mythnetvision - A Internet Video Player plugin for MythTV
+othman - electronic Quran browser
+pepperflashplugin-nonfree - Pepper Flash Player - browser plugin
+squeak-plugin-image - The Squeak Smalltalk System (image and changes file)
+w3-recs - Recommendations of the World Wide Web Consortium (W3C)
+wine-gecko2.21 - Microsoft Windows compatibility layer (embedded web browser)
+389-admin - 389 Directory Administration Server
+browser-plugin-spice - XPI client for interacting with SPICE servers
+ch5m3d - create and visualize 3-dimensional drawings of simple molecules
+chromium-chromedriver - WebDriver driver for the Chromium Browser
+cloudprint - Server for Google Cloud Print
+cricket - Program for collection and display of time-series data
+d-feet - D-Bus object browser, viewer and debugger
+desktop-webmail - Webmail for Linux Desktops
+dianara - client for the pump.io federated social network
+dolibarr - Web based software to manage a small company or foundation
+dooble - WebKit based browser written is Qt 4
+doublecmd-help-en - Documentation for Double Commander (English)
+doublecmd-help-ru - Documentation for Double Commander (Russian)
+doublecmd-help-uk - Documentation for Double Commander (Ukrainian)
+drupal7-mod-drucall - WebRTC SIP module for the Drupal CMS
+drupal7-mod-jscommunicator - Browser-based messaging, phone and video chat application
+drupal7-mod-jssip - Browser-based messaging, phone and video chat application
+dsniff - Various tools to sniff network traffic for cleartext insecurities
+dwb - lightweight WebKit browser
+edfbrowser - viewer for biosignal storage files such as bdf and edf
+edubuntu-docs - The Ubuntu Documentation Project - Edubuntu Documentation
+eekboek-gui - Graphical User Interface for EekBoek
+emacs23 - The GNU Emacs editor (with GTK+ user interface)
+esteid - Estonian national ID card support (meta-package)
+filetea - Web-based file sharing system
+firefox-mozsymbols - Safe and easy web browser from Mozilla - Breakpad symbols
+firefox-testsuite - Safe and easy web browser from Mozilla - testsuite
+fonts-mathjax - JavaScript display engine for LaTeX and MathML (fonts)
+fonts-mathjax-extras - JavaScript display engine for LaTeX and MathML (extra fonts)
+fsniper - Monitors for new files and runs a rule based task
+fsviewer-icons - icons for fsviewer to make it look more like the NeXT FileViewer
+garmin-plugin - browser plugin for communication with the fitness websites
+gitg - git repository viewer
+global - Source code search and browse tools
+gmpc-data - Gnome Music Player Client - data files
+gmusicbrowser - graphical jukebox for large music collections
+goaccess - log analyzer and interactive viewer for the Apache Webserver
+haxe - Web-oriented universal programming language
+httest - HTTP test tool
+hv3 - Lightweight web browser
+jed-extra - collection of useful Jed modes and utilities
+jplayer - jQuery plugin that plays and controls audio files in a webpage
+jscommunicator-web-phone - Basic SIP video-phone web page using WebRTC
+jsxgraph - Interactive Geometry with JavaScript
+juffed-plugins - Lightweight Qt 4 text editor - plugins
+kgmailnotifier - Gmail notifier applet for the KDE Plasma Workspace
+king - interactive system for three-dimensional vector graphics
+ldap-account-manager - webfrontend for managing accounts in an LDAP directory
+libapache2-authcookie-perl - Perl Authentication and Authorization via cookies
+libapache2-mod-upload-progress - upload progress support for the Apache web server
+libaws-bin - Ada Web Server utilities
+libaws-dbg - Debugging symbols for the Ada Web Server shared library
+libaws-doc - Ada Web Server documentation
+libaws2.10.2 - Ada Web Server shared library
+libaws2.10.2-dev - Ada Web Server development files
+libbio-samtools-perl - Perl interface to SamTools library for DNA sequencing
+libbrowser-open-perl - Perl module to open a browser in a given URL
+libcgi-application-plugin-captcha-perl - module providing CAPTCHA support in CGI::Application
+libcgi-application-plugin-protectcsrf-perl - plugin to generate and verify anti-CSRF challenges
+libcgic-dev - C library for developing CGI applications
+libcgic2 - C library for developing CGI applications
+libcodeblocks0 - Code::Blocks shared library
+libdata-showtable-perl - Perl module to print arrays of data in a formatted listing
+libdomain-publicsuffix-perl - module for parsing a domain to determine the public suffix
+libds-admin-serv0 - Libraries for the 389 Directory Administration Server
+libgdl-3-common - GNOME DevTool libraries - common files
+libgdl-3-doc - GNOME DevTool libraries - documentation
+libghc-hbro-contrib-prof - third-party extensions to hbro; profiling libraries
+libghc-wai-handler-launch-prof - Short description of wai-handler-launch; profiling libraries
+libghc-webkit-dev - Binding to the Webkit library
+libghc-webkit-doc - Binding to the Webkit library; documentation
+libghc-webkit-prof - Binding to the Webkit library; profiling libraries
+libgnustep-gui0.22 - GNUstep GUI Library
+libhtml-defang-perl - cleans HTML and CSS of scripting, executable contents and XSS attacks
+libhtml-display-perl - module for displaying HTML locally in a browser
+libhtml-formattext-withlinks-perl - Perl module to convert HTML to text with links as footnotes
+libhtml-prettyprinter-perl - module that generates nice HTML files from HTML syntax trees
+libhtmlunit-core-js-java - GUI-Less browser for Java programs - JavaScript engine
+libhtmlunit-java - GUI-Less browser for Java programs
+libhttp-recorder-perl - Perl module to record interaction with websites
+libhttpunit-java - automated web site testing toolkit
+libhttpunit-java-doc - documentation for libhttpunit-java
+libitext-java - Java Library to create and manipulate PDF on the fly
+libitext1-java - Java Library to generate PDF on the Fly
+libitext5-java - Java Library to create and manipulate PDF on the fly
+libjabsorb-java - Java to Javascript object request broker
+libjcm-java - Java Components for Mathematics
+libjcm-java-doc - Documentation for Java Components for Mathematics
+libjenkins-htmlunit-core-js-java - Jenkins branch of the HtmlUnit Core JS Interpreter
+libjenkins-htmlunit-java - Jenkins branch of HtmlUnit browser testing for web apps
+libjenkins-htmlunit-java-doc - Documentation for Jenkins HtmlUnit
+libjgrapht0.6-java-doc - javadoc-generated API of libjgrapht-java
+libjs-angularjs - lets you write client-side web applications as if you had a smarter browser
+libjs-asciimathml - a library to render high quality mathematical formulas in a browser
+libjs-backbone - some Backbone for JavaScript applications - browser library
+libjs-coffeescript - client-side interpreter for the CoffeeScript language
+libjs-cssom - CSS parser written in pure JavaScript
+libjs-d3 - JavaScript visualization library for HTML and SVG
+libjs-ejs - Embedded JavaScript templates (client support)
+libjs-excanvas - HTML5 Canvas for Internet Explorer
+libjs-extjs - cross-browser JavaScript library
+libjs-extjs-doc - cross-browser JavaScript library (docs)
+libjs-flotr - plotting library for the Prototype Framework
+libjs-gordon - Open source flash runtime written in pure javascript
+libjs-highlight - JavaScript library for syntax highlighting
+libjs-htmlparser - forgiving HTML/XML/RSS Parser in Javascript
+libjs-ie7 - help Internet Explorer behave like a standards-compliant browser
+libjs-img.srcset - fast JavaScript polyfill for img srcset
+libjs-jac - JavaScript Jabber Client Library
+libjs-jquery-jgrowl - notification system for jquery
+libjs-jquery-jplayer - HTML5 Audio & Video for jQuery with a Flash fallback
+libjs-jquery-lazyload - Lazy Load Plugin for jQuery
+libjs-jquery-mousewheel - jQuery Mousewheel Plugin
+libjs-jquery-reflection - jQuery plugin to add reflection effects to images in webpages
+libjs-jscommunicator - Browser-based messaging, phone and video chat application
+libjs-json - JSON encoders/decoders implemented in JavaScript
+libjs-jssip - JavaScript implementation of a WebRTC SIP video phone
+libjs-jstorage - store data locally with JavaScript
+libjs-leaflet - JavaScript library for mobile-friendly interactive maps
+libjs-mathjax - JavaScript display engine for LaTeX and MathML
+libjs-mathjax-doc - JavaScript display engine for LaTeX and MathML (documentation)
+libjs-modernizr - JavaScript library to detect HTML5 and CSS3 features in the user's browser
+libjs-mootools - compact JavaScript framework
+libjs-of-ocaml - OCaml bytecode to JavaScript compiler (runtime)
+libjs-of-ocaml-dev - OCaml bytecode to JavaScript compiler (development files)
+libjs-openlayers - JavaScript library for displaying map data in web browsers
+libjs-openlayers-doc - documentation for OpenLayers
+libjs-polymaps - JavaScript library for image- and vector-tiled maps
+libjs-qunit - JavaScript Unit Testing framework
+libjs-sipml5 - JavaScript implementation of a WebRTC SIP video phone
+libjs-sipml5-doc - JavaScript implementation of a WebRTC SIP video phone - API docs
+libjs-traverse - recursively traverse objects in Javascript
+libjs-twitter-bootstrap - HTML, CSS and JS toolkit from Twitter
+libjs-unorm - Common JS Unicode Normalizer (client/browser)
+libjs-xmlextras - creates a common interface to use of the XML objects provided by IE and Mozilla
+libjs-yui - Yahoo User Interface Library
+libjs-zeparser - Javascript library for parsing Javascript code
+libjsoup-java - Java HTML parser that makes sense of real-world HTML soup
+libjsoup-java-doc - Documentation for jsoup HTML Parser
+libnetx-java - An open-source JNLP client
+libpacparser-dev - library to parse proxy auto-config files (development files)
+libpacparser1 - library to parse proxy auto-config files
+libpadre-plugin-datawalker-perl - simple Perl data structure browser Padre
+libphp-snoopy - Snoopy is a PHP class that simulates a web browser
+libplack-middleware-crossorigin-perl - Plack middleware adding headers to allow CORS
+libplack-middleware-file-sass-perl - Sass and SCSS support for all Plack-based PSGI frameworks
+libpod-webserver-perl - a miniature web server for reading Pod in web browsers
+libqtpropertybrowser3 - Qt Property Browser Library - runtime
+libqtpropertybrowser3-dev - Qt Property Browser Library - development
+libqupzilla-dev - development files for qupzilla's shared library
+libqupzilla1 - shared library and header files for qupzilla
+libsession-storage-secure-perl - module implementing a secure way to encode session data
+libspork-perl - create slide presentations with Kwiki markup
+libstoken1 - Software Token for cryptographic authentication - shared library
+libtggraphlayout-java-doc - Javadoc generated API for libtggraphlayout-java
+libtyxml-ocaml - typed XML in OCaml (plugins)
+libtyxml-ocaml-dev - typed XML in OCaml (development files)
+libtyxml-ocaml-doc - typed XML in OCaml (documentation)
+libweb-id-perl - implementation of WebID (a.k.a. FOAF+SSL)
+libwine-gecko-2.21 - Windows API implementation - web browser module
+libwine-gecko-dbg-2.21 - Windows API implementation - web browser debug build
+libwww-mechanize-shell-perl - interactive shell for WWW::Mechanize
+libwx-perl-datawalker-perl - Perl data structure browser
+libwxsmithlib-dev - wxSmith development files (Code::Blocks plugin for RAD GUI editing)
+libwxsmithlib0 - wxSmith shared library (Code::Blocks plugin for RAD GUI editing)
+libxfce4util-dev - Development files for libxfce4util6
+libxfcegui4-dev - Development files for libxfcegui4-4
+lightdm-remote-session-uccsconfigure - Session and configuration to login to configure UCCS
+ninja-build - small build system closest in spirit to Make
+ninja-build-doc - documentation for ninja-build
+nitrogen - wallpaper browser and changing utility for X
+node-almond - minimal AMD API implementation for use in optimized browser builds
+node-jsv - extendable, fully compliant JSON schema validator for NodeJS
+node-log4js - Conversion of the log4js framework to work with Node.js
+node-mirror - content aggregator for NodeJS
+node-requirejs - JavaScript file and module loader
+node-xmlhttprequest - XMLHttpRequest for Node
+nova-consoleauth - OpenStack Compute - Console Authenticator
+novnc - HTML5 VNC client - daemon and programs
+ntop-data - display network usage in a web browser (data files)
+oxideqmlscene - Web browser engine library for Qt (QML application runner)
+password-gorilla - cross-platform password manager
+php-horde-browser - Horde Browser API
+php-horde-groupware - Horde Groupware
+php-horde-trean - Web-based bookmarks application
+php-horde-webmail - Horde Groupware Webmail Edition
+phpldapadmin - web based interface for administering LDAP servers
+plasma-active-webbrowser - web browser for the KDE Plasma Active workspace
+prank - Probabilistic Alignment Kit for DNA, codon and amino-acid sequences
+pycode-browser - environment to teach with Python code snippets
+pyneighborhood - PyGTK2 SAMBA browser
+python-albatross-doc - documentation for the Albatross Web Toolkit
+python-bleach - whitelist-based HTML-sanitizing library
+python-django-localeurl - Django application allows the language be set in the URL
+python-django-tinymce - replacement text widget for Django web framework
+python-django-websocket - Websocket support for django
+python-htseq - high-throughput genome sequencing read analysis utilities
+python-livereload - Refresh the browser automatically when a file has been updated
+python-livereload-doc - Refresh the browser automatically when a file has been updated (documentation)
+python-novnc - HTML5 VNC client - libraries
+python-pacparser - Python module to parse proxy auto-config files
+python-publicsuffix - get a public suffix for a domain name using the Public Suffix List
+python-socketio - Socket.IO server based on the gevent pywsgi server
+python-socketio-doc - documentation for gevent-socketio
+python-sockjs-tornado - server side counterpart of SockJS-client browser library - Python 2.x
+python-txws - Python module to add Websocket support to the Twisted framework
+python-webkit - WebKit/Gtk Python bindings
+python-webkit-dev - WebKit/Gtk Python bindings: development files
+python-weboob-core - Weboob, Web Out Of Browsers - core library
+python-websocket - WebSocket client library for python
+python-wsgilog - WSGI logging and event reporting middleware
+python-zope.app.exception - Zope 3 exception views
+python-zope.app.principalannotation - Bootstrap subscriber and add menu item for zope.principalannotation
+python-zope.app.publisher - Zope 3 views, resources and menus
+python-zope.app.security - ZMI Views For Zope3 Security Components
+python-zope.browsermenu - Browser menu implementation for Zope
+python-zope.browserpage - ZCML directives for configuring browser views for Zope
+python-zope.browserresource - Browser resources implementation for Zope
+python-zope.ptresource - Page template resource plugin for zope.browserresource
+python-zope.publisher - Zope publisher publishes Python objects on the web
+python-zope.testbrowser - Programmable browser for functional black-box tests
+python3-html5lib - HTML parser/tokenizer based on the WHATWG HTML5 specification (Python 3)
+python3-sockjs-tornado - server side counterpart of SockJS-client browser library - Python 3.x
+qupzilla - lightweight web browser based on libqtwebkit
+r-bioc-genomicfeatures - GNU R tools for making and manipulating transcript centric annotations
+r-bioc-rtracklayer - GNU R interface to genome browsers and their annotation tracks
+rebuildd - build daemon aiming at rebuilding Debian packages
+rhythmbox-radio-browser - Internet radio browser plugin for rhythmbox
+roundcube - skinnable AJAX based webmail solution for IMAP servers - metapackage
+roundcube-core - skinnable AJAX based webmail solution for IMAP servers
+roundcube-plugins - skinnable AJAX based webmail solution for IMAP servers - plugins
+roundcube-plugins-extra - skinnable AJAX based webmail solution - extra plugins
+ruby-bcat - pipe to browser utility
+ruby-http-accept-language - Ruby library that finds out which locale the user prefers
+ruby-http-cookie - Ruby library to handle HTTP Cookies based on RFC 6265
+ruby-multipart-post - multipart form post accessory for Net::HTTP
+ruby-upr - Upload Progress for Rack
+sbcl-source - Source code files for SBCL
+scribus-doc - non-free documentation for Scribus
+scribus-ng-doc - non-free documentation for Developmental Scribus branch
+shellinabox - publish command line shell through AJAX interface
+sipdialer - reSIProcate SIP stack - click-to-call utility
+sipml5-web-phone - Basic SIP video-phone web page based on WebRTC
+smtube - YouTube videos browser
+sqlitebrowser - GUI editor for SQLite databases
+tea - graphical text editor with syntax highlighting
+tickr - GTK-based highly graphically-customizable Feed Ticker
+tkdesk - Tk/tcl based X11 Desktop/File manager
+tribler - Python based Bittorrent/Internet TV application
+tt-rss - Tiny Tiny RSS - web-based news feed (RSS/Atom) aggregator
+turses - Twitter client for the console
+ubuntu-kylin-docs - Ubuntu Kylin Desktop Guide
+ubuntu-online-tour - Experience Ubuntu in your web browser
+unburden-home-dir - Remove or move cache files automatically from user's home
+unity-chromium-extension - Unity WebApp extension for the chromium browser
+uzbl - Lightweight Webkit browser following the UNIX philosophy
+view3dscene - VRML / X3D browser, and a viewer for other 3D model formats
+vokoscreen - easy to use screencast creator
+web2ldap - Full-featured web-based LDAPv3 client
+webbrowser-app-autopilot - Ubuntu web browser autopilot tests
+webdruid - Web server log file analysis tool
+wulf2html - filter for generating HTML logs from wulflogger data
+x2goplugin - X2Go Client (Qt4) as browser plugin
+xubuntu-docs - xubuntu documentation
+xul-ext-deejayd-webui - Deejayd web user interface XUL extension
+yarssr - RSS reader for the notification area
+yorick-doc - documentation for the Yorick interpreted language
+youtranslate - graphical translator which makes use of online services
+zescrow-client - back up eCryptfs Encrypted Home or Encrypted Private Configuration
+ajaxterm - terminale basato sul web scritto in Python
+akregator - RSS/Atom feed aggregator
+alevt - Browser di TeleVideo per X11
+ams - sintetizzatore modulare in tempo reale per ALSA
+anon-proxy - proxy per navigare il web in modo anonimo
+arora - semplice navigatore web multipiattaforma
+aspectj - estensione orientata all'aspetto per Java - strumenti
+autopsy - interfaccia grafica allo SleuthKit
+aview - visualizzatore di immagini e riproduttore video di alta qualità per ASCII art
+betaradio - radio via internet di Taiwan
+bluedevil - stack Bluetooth di KDE
+bluefish - editor HTML Gtk+ avanzato
+browser-history - demone che tiene traccia e registra gli URL visitati
+browser-plugin-gnash - riproduttore GNU per Shockwave Flash (SWF) - plugin per Mozilla e derivati
+browser-plugin-libreoffice - Suite di produttività per l'ufficio - plugin per Mozilla
+browser-plugin-lightspark - riproduttore di SWF ad alte prestazioni - plugin Mozilla (sperimentale)
+browser-plugin-packagekit - plugin per installare i plugin mancanti utilizzando PackageKit
+browser-plugin-vlc - plugin multimediale basato su VLC per browser web
+buxon - Browser dei forum SIOC
+chimera2 - Browser web per X
+chromium-browser-dbg - chromium-browser debug symbols
+codeblocks - IDE (Integrated Development Environment) Code::Blocks
+codeblocks-dbg - Librerie di Debug di Code::Blocks
+codeblocks-dev - File di sviluppo di Code::Blocks (SDK)
+collabtive - software per gestione di progetti basata sul web
+comix - visualizzatore di fumetti GTK
+compass-breakpoint-plugin - really simple media queries with Sass
+compass-fancy-buttons-plugin - plugin Compass che implementa pulsanti CSS3 bellissimi
+compass-layoutgala-plugin - Compass plugin implementing the Layout-gala CSS styles
+darkstat - analizzatore del traffico di rete
+dbndns - fork Debian di djbdns, una raccolta di strumenti Domain Name System
+dcmtk-www - OFFIS DICOM toolkit worklist www server application
+ddns3-client - invia richieste dynamic DNS v3
+desproxy - instrada traffico TCP attraverso un proxy HTTP
+dillo - navigatore web piccolo e veloce
+djbdns - a collection of Domain Name System tools
+djview-plugin - plugin browser per le immagini in formato DjVu
+doc-central - browser per la documentazione basato sul web
+dpkg-www - navigatore di pacchetti Debian con interfaccia web
+drgeo-doc - manuale in linea per Dr. Geo
+drpython - editor semplice e personalizzabile per il linguaggio Python
+dsc-statistics-presenter - DNS Statistics Collector - Presenter component
+dvb-apps - applicazioni per trasmissioni video digitali (DVB)
+dwww - legge tutta la documentazione in linea con un browser WWW
+easytag - visualizza, modifica e scrive tag ID3
+elinks - browser WWW testuale avanzato
+elinks-data - advanced text-mode WWW browser - data files
+elinks-doc - advanced text-mode WWW browser - documentation
+elinks-lite - advanced text-mode WWW browser (transition package)
+emacs23-lucid - l'editor GNU Emacs
+emacs23-nox - editor GNU Emacs (senza supporto per X)
+emacs24-lucid - GNU Emacs editor
+epiphany-browser - web browser intuitivo per GNOME
+epiphany-browser-data - file di dati per il browser web di GNOME
+epiphany-browser-dbg - Debugging symbols for the GNOME web browser
+eric - IDE Python completo
+ezmlm-browse - browser web per archivi ezmlm-idx
+fex - servizio web per trasferire file molto grandi
+fonts-lyx - versioni TrueType di alcuni tipi di carattere TeX usati da LyX
+forg - browser gopher grafico
+fpm2 - gestore di password con interfaccia utente grafica GTK+ 2.x
+freemind-browser - applet Java per pubblicare mappe mentali prodotte con FreeMind
+frescobaldi - editor di partiture musicali LilyPond per Qt4
+gambas3-gb-db-form - Gambas database bound controls
+gambas3-gb-qt4-webkit - Gambas WebKit component
+gbrowse - browser generico per genoma di GMOD
+gcu-plugin - GNOME chemistry utils (browser plugin)
+geany-plugin-addons - plugin misti per Geany
+geany-plugin-devhelp - DevHelp plugin for Geany
+geany-plugin-geniuspaste - GeniusPaste plugin for Geany
+geany-plugin-treebrowser - tree browser plugin for Geany
+gecko-mediaplayer - plugin multimediale per i browser Gecko
+gecrit - IDE Python semplice e facile da usare
+gedit-source-code-browser-plugin - plugin per Gedit per navigatore di classi e funzioni del codice sorgente
+gimmix - client grafico per MPD (music player daemon) che usa GTK+2
+gman - piccola interfaccia a man(1) per X
+gmpc - client per riproduttore musicale di GNOME (interfaccia grafica per MPD)
+gmpc-dbg - Gnome Music Player Client - debugging symbols
+gmpc-dev - client per riproduttore musicale di GNOME (file per lo sviluppo di plugin)
+gmpc-plugins - plugin per il GNOME Music Player Client
+gnash - GNU Shockwave Flash (SWF) player
+gnash-common - GNU Shockwave Flash (SWF) player - Common files/libraries
+gnash-cygnal - GNU Shockwave Flash (SWF) player - Media server
+gnash-dbg - GNU Shockwave Flash (SWF) player - Debug symbols
+gnash-dev - GNU Shockwave Flash (SWF) player - Development files
+gnash-doc - GNU Shockwave Flash (SWF) player - API documentation
+gnash-ext-fileio - GNU Shockwave Flash (SWF) player - Fileio extension
+gnash-ext-lirc - GNU Shockwave Flash (SWF) player - LIRC extension
+gnash-ext-mysql - GNU Shockwave Flash (SWF) player - MySQL extension
+gnash-tools - GNU Shockwave Flash (SWF) player - Command-line Tools
+gnat-gps - integrated development environment for C and Ada
+gnome-mplayer - GTK+ interface for MPlayer
+gnome-mplayer-dbg - GTK+ interface for MPlayer (debugging symbols)
+gnu-smalltalk-browser - GNU Smalltalk browser
+gotmail - strumento per scaricare posta elettronica da un account Hotmail o MSN
+gplanarity - semplice gioco rompicapo che consiste nel districare grafici piani
+gthumb-data - image viewer and browser - arch-independent files
+gthumb-dbg - image viewer and browser - debugging symbols
+gthumb-dev - image viewer and browser - development files
+gtkcookie - editor per file di cookie
+gtml - pre-processore HTML
+guacamole - applicazione web HTML5 per accedere a desktop remoti
+guacamole-tomcat - Tomcat-based Guacamole install with VNC support
+hbro - browser web minimale conforme a KISS
+hoteldruid - sistema di gestione delle proprietà basato su web per hotel o B&B
+html2wml - converte pagine HTML in pagine WML (WAP) o i-mode
+httrack - copia siti web sul proprio computer (browser offline)
+icedtea-6-plugin - plugin per browser web per eseguire applet Java basato su OpenJDK e IcedTea
+imgsizer - aggiunge gli attributi WIDTH e HEIGHT ai tag IMG nei file HTML
+info2www - lettura di file info con un browser WWW
+isoqlog - programma di analisi dei log di MTA (agente trasferimento posta)
+java2html - evidenzia sorgenti Java e C++ per la presentazione WWW
+jed - editor per programmatori (versione testuale)
+jpoker - client javascript per poker in linea
+js-of-ocaml - compilatore da bytecode OCaml a JavaScript (compilatore)
+jsmath - equazioni TeX in documenti HTML
+jsmath-fonts - tipi di carattere raster per jsMath
+jsmath-fonts-sprite - raster fonts for jsMath plugin spriteImageFonts
+junior-internet - strumenti Debian Jr. per Internet
+jwchat - full featured, web-based Jabber chat client
+jxplorer - browser LDAP Java
+kde-plasma-desktop - KDE Plasma Desktop e insieme minimo di applicazioni
+kde-plasma-netbook - KDE Plasma Netbook and minimal set of applications
+klash - GNU Shockwave Flash (SWF) player - Standalone player for KDE
+klipper - clipboard manager
+konq-plugins - plugins for Konqueror, the KDE file/web/document browser
+konqueror - advanced file manager, web browser and document viewer
+konqueror-nsplugins - Netscape plugin support for Konqueror
+konqueror-plugin-gnash - GNU Shockwave Flash (SWF) player - Plugin for Konqueror
+kpart-webkit - WebKit KPart
+kpart-webkit-dbg - WebKit KPart - debugging symbols
+lazarus-doc - IDE for Free Pascal - documentation dependency package
+lazarus-doc-1.0.10 - IDE for Free Pascal - documentation
+letodms - sistema di gestione documentale basato su PHP e MySQL
+libdap11 - Open-source Project for a Network Data Access Protocol library
+libgd-ocaml - OCaml interface to the GD library -- runtime files
+libgd-ocaml-dev - OCaml interface to the GD library -- developpement files
+libgd-tools - strumenti GD a riga di comando ed esempi di codice
+libgdl-3-5 - GNOME DevTool libraries
+libgdl-3-dbg - GNOME DevTool libraries - debug files
+libgdl-3-dev - GNOME DevTool libraries - development files
+libghc-hbro-contrib-dev - third-party extensions to hbro
+libghc-hbro-contrib-doc - third-party extensions to hbro; documentation
+libghc-hbro-dev - browser web minimale conforme a KISS
+libghc-hbro-doc - minimal KISS-compliant web browser; documentation
+libghc-hbro-prof - minimal KISS-compliant web browser; profiling libraries
+libghc-wai-handler-launch-dev - WAI handler for launching in a web browser
+libghc-wai-handler-launch-doc - Short description of wai-handler-launch; documentation
+libgtk2-gst - ambiente e collegamenti GTK+ per GNU Smalltalk
+libhtml-clean-perl - ripulisce il codice HTML per i browser, non per gli umani
+libhttp-browserdetect-perl - modulo per estrarre dati di sistema dalla stringa user-agent HTTP
+libitext-java-gcj - Java Library to create and manipulate PDF on the fly
+libitext5-java-doc - Java Library to create and manipulate PDF on the fly (documentation)
+libjs-async - higher-order functions and common patterns for asynchronous Javascript
+libjs-bignumber - Arbitrary-precision decimal and non-decimal arithmetic (client)
+libjs-impress - libreria JavaScript per creare presentazioni animate
+libjs-inherits - Exposes inherits function from Node.js environment
+libjs-jquery-jush - jQuery Syntax Highlighter
+libjs-less - metalinguaggio CSS LESS - libreria JavaScript
+libjs-node-uuid - simple, fast generation of RFC4122 UUIDs - JavaScript library
+libjs-of-ocaml-doc - compilatore da bytecode OCaml a JavaScript (documentazione)
+libjs-semver - Semantic Versioning for Node.js
+libjs-twitter-bootstrap-docs - HTML, CSS and JS toolkit from Twitter (documentation)
+libjs-underscore.logger - cross-browser and Node empowered logging - browser library
+liblingua-preferred-perl - modulo Perl che permette di negoziare la lingua dei contenuti
+libqtwebkit-qmlwebkitplugin - plugin WebKit QML per Qt
+libreoffice - office productivity suite (metapackage)
+libwwwbrowser-perl - metodo indipendente dalla piattaforma per avviare un browser WWW
+libxfconf-0-dev - file di sviluppo per libxfconf
+lightspark - High-performance SWF player (experimental)
+lightspark-dbg - High-performance SWF player (experimental) - Debug symbols
+links - browser web in modalità testuale
+links2 - Browser web funzionante sia in modalità grafica che testuale
+luakit - browser web piccolo e veloce estensibile tramite Lua
+man2html - naviga pagine man con browser web
+maptransfer - upload/download maps to/from a VALVe game server (Client)
+maptransfer-server - scarica e carica mappe da e verso un server di gioco VALVe (server)
+matchbox-desktop - desktop application launcher for resource-limited systems
+midori - browser web grafico veloce e leggero
+midori-dbg - fast, lightweight graphical web browser (debug symbols)
+mldonkey-server - porta sulla rete "donkey"
+monit - utilità per controllare e gestire demoni o programmi simili
+monodevelop - ambiente di sviluppo per GNOME
+monodoc-http - MonoDoc http based viewer
+motion - programma di cattura video V4L con supporto per rilevazione di movimento
+mozilla-plugin-gnash - pacchetto fittizio per rinominare a browser-plugin-gnash
+namebench - utilità per benchmark di DNS
+ncmpc - riproduttore audio basato su ncurses
+netrik - browser WWW testuale con associazioni dei tasti in stile vi
+netsurf - piccolo navigatore web con gestione dei CSS - pacchetto di transizione
+netsurf-fb - Small web browser with CSS support for framebuffers
+netsurf-gtk - Small web browser with CSS support for GTK
+newbiedoc - documentazione Debian PER principianti DA principianti
+nginx-extras - nginx web/proxy server (extended version)
+nginx-full - nginx web/proxy server (standard version)
+nginx-naxsi - nginx web/proxy server (version with naxsi)
+node-async - higher-order functions and common patterns for asynchronous Javascript
+node-htmlparser - forgiving HTML/XML/RSS Parser in Javascript for NodeJS
+node-inherits - Exposes inherits function from Node.js environment
+node-node-uuid - simple, fast generation of RFC4122 UUIDs - Node module
+node-topcube - spawn a child webkit window from Node.js
+node-underscore - JavaScript's functional programming helper library - NodeJS
+node-underscore.logger - cross-browser and Node empowered logging - Node module
+ntop - visualizza l'uso della rete nel browser web
+ntop-dbg - display network usage in web browser (debug symbols)
+octave-vrml - VRML functions for Octave
+op-panel - applicazione tipo centralino per il PBX Asterisk
+perl-doc-html - documentazione di Perl adatta per la visualizzazione con un browser web
+pgn2web - converte file PGN di partite di scacchi in pagine web
+photon - generatore di gallerie HTML statiche
+phpunit-selenium - integrazione di Selenium RC per PHPUnit
+pinfo - Un visualizzatore alternativo di file info
+plasma-runners-addons - additional runners for Plasma and Krunner
+podbrowser - navigatore della documentazione per Perl
+pop3browser - Permette di controllare una casella di posta POP3 prima di scaricare qualsiasi mail
+postgresql-autodoc - utilità per creare viste d'insieme di database PostgreSQL in HTML, DOT e XML
+proxytrack - crea cache HTTP usando siti web archiviati copiati da HTTrack
+psensor-server - server Psensor per monitorare i sensori hardware da remoto
+pypibrowser - interfaccia grafica per la navigazione dell'indice dei pacchetti Python
+python-albatross - toolkit per applicazioni web con informazioni sullo stato
+python-gtk-gnash - GNU Shockwave Flash (SWF) player - Python bindings
+python-mechanize - navigatore web programmatico con stato
+python-nevow - sistema di modelli per applicazioni web per Python e Twisted
+python-w3lib - Collection of web-related functions for Python (Python 2)
+python-webflash - messaggi a comparsa portabili per applicazioni WSGI Python
+python-webunit - test di unità per applicazioni web con codice che agisce come un browser web
+python-zope.browser - componenti del browser condivisi per il toolkit Zope
+python3-w3lib - Collection of web-related functions for Python (Python 3)
+pyvnc2swf - strumento per registrazione dello schermo con output Flash (SWF)
+qasconfig - navigatore per la configurazione di ALSA
+qashctl - mixer for ALSA's High level Control Interface
+qasmixer - ALSA mixer for the desktop
+qastools-common - QasTools common files
+qbzr - interfaccia grafica a Bazaar che usa gli strumenti Qt
+qmmp - riproduttore audio ricco di funzioni che legge molti formati
+r-base-html - GNU R html docs for statistical computing system functions
+rekonq - navigatore web KDE basato su Webkit
+remuco-gmusicbrowser - duplex remote control for media players - gmusicbrowser adapter
+semanticscuttle - gestore di segnalibri sociali auto-ospitati e basati sul web
+smb4k - navigatore avanzato delle condivisioni Samba (SMB) per KDE
+spice-html5 - Spice Web client which runs entirely within a modern browser
+sql-ledger - programma per contabilità in partita doppia basato sul web
+squid-cgi - proxy web con cache completo (proxy HTTP) - controllo CGI
+squirrelmail - posta elettronica web per pazzi
+squirrelmail-quicksave - SquirrelMail plugin: Auto-save messages while composing
+sugar-browse-activity - web browsing activity for the Sugar graphical shell
+sugar-firefox-activity - Mozilla Firefox browser for the Sugar desktop
+surf - semplice browser web
+surfraw - rapida interfaccia unix a riga di comando per il web
+surfraw-extra - strumenti di ricerca extra per surfraw con pesanti dipendenze
+sweeper - history and temporary file cleaner
+swfdec-mozilla - dummy package for transition to browser-plugin-gnash
+tdfsb - browser 3D per filesystem
+telegnome - visualizzatore grafico di televideo
+telepathy-specification - specifica D-Bus Telepathy
+tinymce - editor Javascript/HTML WYSIWYG basato su web indipendente dall'architettura
+tkinfo - navigatore di file Info Tcl/Tk
+tkmib - SNMP (Simple Network Management Protocol) - browser MIB
+tor - rete overlay che garantisce l'anonimato per TCP
+tora - strumenti grafici per sviluppatori e amministratori di database
+tora-dbg - graphical toolkit for database developers and administrators - debugging symbols
+torrentflux - gestore di scaricamenti BitTorrent basato sul web e ricco di funzioni
+trac-graphviz - plugin per stampa di grafi per Trac
+ttb - navigatore di teletekst (olandese) per il desktop
+unhtml - rimuove i tag di marcatura da un file HTML
+urlview - estrazione di URL dal testo
+viewvc - interfaccia web per repository CVS e/o Subversion
+viewvc-query - utility to query CVS and Subversion commit database
+vim-scripts - plugin per vim, aggiungere fiocchi e controfiocchi
+vuze - Multimedia BitTorrent client
+w3m-el - semplice interfaccia Emacs per w3m
+w3m-el-snapshot - simple Emacs interface of w3m (development version)
+wapua - browser web per pagine WAP WML
+webalizer - programma di analisi dei log dei server web
+webhttrack - Copia siti web in locale, httrack con interfaccia web
+widemargin - applicazione per lettura e studio della Bibbia
+wikipedia2text - visualizzatore di articoli di Wikipedia da riga di comando
+woof - condivide file attraverso il protocollo HTTP
+wysihtml-el - sistema di anteprime quasi in tempo reale per HTML e DocBook
+xemacs21-mule - highly customizable text editor -- Mule binary
+xemacs21-mule-canna-wnn - highly customizable text editor -- Mule binary compiled with Canna and Wnn
+xemacs21-nomule - highly customizable text editor -- Non-mule binary
+xenwatch - utilità di virtualizzazione, principalmente per Xen
+xfce4-dict - plugin dizionario per il pannello di Xfce4
+xfonts-kapl - tipi di carattere APL per sviluppo in A+
+xine-plugin - plugin per riproduttore multimediale basato su xine per browser Mozilla
+xjed - editor for programmers (x11 version)
+xmotd - browser di messaggi del giorno per X
+xul-ext-y-u-no-validate - estensione per il browser per rendere le eccezioni di sicurezza temporanee in modo predefinito
+xxxterm - browser web minimalista
+zeya - server musicale via web
+liboxideqtcore0 - Web browser engine library for Qt (core library and components)
+liboxideqtquick0 - Web browser engine library for Qt (QtQuick library)
+oxideqt-chromedriver - Web browser engine library for Qt (chromedriver build)
+python-html5lib-whl - HTML parser/tokenizer based on the WHATWG HTML5 specification
+python-requests-whl - elegant and simple HTTP library for Python, built for human beings
+xul-ext-ubufox - Ubuntu modifications for Firefox
+chromium-browser - Chromium web browser, open-source version of Chrome
+chromium-browser-l10n - chromium-browser language packages
+chromium-codecs-ffmpeg - Free ffmpeg codecs for the Chromium Browser
+chromium-codecs-ffmpeg-extra - Extra ffmpeg codecs for the Chromium Browser
+adobe-flashplugin - Adobe Flash Player plugin
+adobe-flash-properties-gtk - GTK+ control panel for Adobe Flash Player plugin
+adobe-flash-properties-kde - KDE control panel Adobe Flash Player plugin
+libgd2-xpm - GD Graphics Library version 2
+galeon - GNOME web browser for advanced users
+galeon-common - data for the galeon web browser
+google-chrome-stable - The web browser from Google
+google-talkplugin - Google Talk Plugin
